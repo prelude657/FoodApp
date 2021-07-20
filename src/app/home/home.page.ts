@@ -12,7 +12,7 @@ export class HomePage implements OnInit {
   featured = [];
  
   catSlideOpts = {
-    slidesPerView: 3,
+    slidesPerView: 4,
     spaceBetween: 5,
     slidesOffsetBefore: 11,
     freeMode: true

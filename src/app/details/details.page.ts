@@ -14,8 +14,8 @@ export class DetailsPage implements OnInit, AfterViewInit {
   opts = {
     freeMode: true,
     slidesPerView: 2.6,
-    slidesOffsetBefore: 30,
-    slidesOffsetAfter: 100
+    slidesOffsetBefore: 2,
+    slidesOffsetAfter: 2
   }
  
   activeCategory = 0;
