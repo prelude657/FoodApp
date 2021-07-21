@@ -13,7 +13,7 @@ export class DetailsPage implements OnInit, AfterViewInit {
   
   opts = {
     freeMode: true,
-    slidesPerView: 2.6,
+    slidesPerView: 3,
     slidesOffsetBefore: 2,
     slidesOffsetAfter: 2
   }
